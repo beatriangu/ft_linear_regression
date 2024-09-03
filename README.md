@@ -16,16 +16,18 @@ Install
 This project uses Homebrew and Python. Go check them out if you don't have them locally installed.
 
 Use the package manager pip3 to install all needed packages.
-
 pip3 install numpy
-pip3 install matplotlib
+pip3 insatll matplotlib
 pip3 install sklearn
+
 Usage
-python3 ft_linear_regression.py [flags]
+python3 ft_linear_regression.py[flags]
 python3 priceEstimation.py
+
 Flags
 -p, --prediction            - show the prediction curve
 -ch, --cost_history         - show the cost history curve
 -cd, --coef_determination   - show the coefficient of determination
+
 Rate
 125/100
