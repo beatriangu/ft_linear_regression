@@ -27,7 +27,7 @@ Sorry to hear that. I'll have to try to adjust my algorithm a little more.
 <ul>
     <li>View the data on a graph: <a href="<ul>https://github.com/beatriangu/ft_linear_regression/blob/main/without%20training.png">see the graph</a></li>
     <li>Display the line resulting from your linear regression on this same graph and see if it works!</li><a href="https://github.com/beatriangu/ft_linear_regression/blob/main/predict.png">
-    <li>Display the curve resulting from your cost history.</li>
+    <li>Display the curve resulting from your cost history.</li>https://github.com/beatriangu/ft_linear_regression/blob/main/severaltrain.png
     <li>A program that checks the accuracy of your algorithm.</li>
 </ul>
 
