@@ -42,7 +42,7 @@ Great! I'll buy it!
 Please enter Kilometrage: 50000
 Estimated price for 50000 kms: 7393 €
 Is it what you expected? (yes/no): no
-Sorry to hear that. I'll have to try to adjust my algorithm a little more.
+Sorry to hear that.I'll have to try to adjust my algorithm a little more.
 </code>
 </pre>
 
@@ -59,6 +59,6 @@ Sorry to hear that. I'll have to try to adjust my algorithm a little more.
     <li>Display the line resulting from your linear regression on this same graph and see if it works! <a href="https://github.com/beatriangu/ft_linear_regression/blob/main/predict.png">linear regression graph</a></li>
     <li>Display the curve resulting from your cost history: <a href="https://github.com/beatriangu/ft_linear_regression/blob/main/severaltrain.png">cost history curve</a></li>
     <li>A program that checks the accuracy of your algorithm:
-        <p>(Percentage of Precision: 73.23%)</p>
+        <p>(Percentage of accuracy: 73.23%)</p>
     </li>
 </ul>
