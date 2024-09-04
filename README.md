@@ -1,12 +1,13 @@
-<!-- ft_linear_regression -->
 <a href="https://www.42.fr/">
-    <img src="https://www.universfreebox.com/UserFiles/image/site_logo.gif" alt="42 logo" title="42" align="right" />
+    <p><img src="https://www.universfreebox.com/UserFiles/image/site_logo.gif" alt="42 logo" title="42" align="right" /></p>
 </a>
+<p align="center"><img src="https://user-images.githubusercontent.com/34480775/75110997-3a531400-5635-11ea-9e27-70a4de894c9e.JPG" /></p>
+
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Skill%201-Algorithm&AI-9cf" alt="Skill 1: Algorithm & AI">
-    <img src="https://img.shields.io/badge/Skill%202-DB%20%26%20Data-blue" alt="Skill 2: DB & Data">
-    <img src="https://img.shields.io/badge/Objectives-Machine%20Learning-brightgreen" alt="Objectives: Machine Learning">
+    <img src="https://img.shields.io/badge/Skill%201-Algorithm&AI-9cf">
+    <img src="https://img.shields.io/badge/Skill%202-DB%20%26%20Data-blue">
+    <img src="https://img.shields.io/badge/Objectives-Machine%20Learning-brightgreen">
 </p>
 
 <p>
