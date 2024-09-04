@@ -21,22 +21,23 @@ View the data on a graph.
 Display the line resulting from your linear regression on this same graph and see if it works!
 Display the curve resulting from your cost history.
 A program that checks the accuracy of your algorithm.
-Install
-This project uses Homebrew and Python. Go check them out if you don't have them locally installed.
 
-Use the package manager pip3 to install all needed packages.
-pip3 install numpy
-pip3 insatll matplotlib
-pip3 install sklearn
 
-Usage
-python3 ft_linear_regression.py[flags]
-python3 priceEstimation.py
 
-Flags
--p, --prediction            - show the prediction curve
--ch, --cost_history         - show the cost history curve
--cd, --coef_determination   - show the coefficient of determination
+
+(django_venv) c4r4s6% python predict.py
+Please enter Kilometrage: 60000
+Estimated price for 60000 kms: 7184 €
+Is it what you expected? (yes/no): yes
+Great! I'll buy it!
+(django_venv) c4r4s6% python predict.py
+Please enter Kilometrage: python severaltrain.py
+Error: Cannot cast input to float. Please enter a valid number.
+Please enter Kilometrage: 240000
+Estimated price for 240000 kms: 3436 €
+Is it what you expected? (yes/no): no
+Sorry to hear that. I'll have to try to adjust my algorithm a little more.
+
 
 Rate
 125/100
