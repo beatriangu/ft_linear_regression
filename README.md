@@ -12,9 +12,15 @@
 <p>
     An introduction to AI and Machine Learning. Write your own gradient descent algorithm to train a linear regression model that will be used to predict the price of a car.
 </p>
-
+(Percentage of Precision: 73.23%)
 <p>
-    The first program will be used to predict the price of a car based on its mileage. When you launch the program, it will ask you for the mileage and should give you an approximate price of the car. The second program will be used to train your model. It will read the data set and perform a linear regression on this data.
+    The first program will be used to predict the price of a car based on its mileage. When you launch the program, it will ask you for the mileage and should give you an approximate price of the car. 
+    Please enter Kilometrage: 50000
+Estimated price for 50000 kms: 7393 €
+Is it what you expected? (yes/no): no
+Sorry to hear that. I'll have to try to adjust my algorithm a little more.
+    
+    The second program will be used to train your model. It will read the data set and perform a linear regression on this data.
 </p>
 
 <h3>Bonuses</h3>
