@@ -12,23 +12,34 @@
 <p>
     An introduction to AI and Machine Learning. Write your own gradient descent algorithm to train a linear regression model that will be used to predict the price of a car.
 </p>
-(Percentage of Precision: 73.23%)
+
 <p>
     The first program will be used to predict the price of a car based on its mileage. When you launch the program, it will ask you for the mileage and should give you an approximate price of the car. 
-    Please enter Kilometrage: 50000
+</p>
+
+<!-- Screenshots for predictions after entering the mileage -->
+<pre>
+<code>
+Please enter Kilometrage: 50000
 Estimated price for 50000 kms: 7393 €
 Is it what you expected? (yes/no): no
 Sorry to hear that. I'll have to try to adjust my algorithm a little more.
-    
+</code>
+</pre>
+
+<p>
     The second program will be used to train your model. It will read the data set and perform a linear regression on this data.
 </p>
 
+<!-- Accuracy percentage -->
+<p>(Percentage of Precision: 73.23%)</p>
+
 <h3>Bonuses</h3>
 <ul>
-    <li>View the data on a graph: <a href="<ul>https://github.com/beatriangu/ft_linear_regression/blob/main/without%20training.png">see the graph</a></li>
-    <li>Display the line resulting from your linear regression on this same graph and see if it works!</li><a href="https://github.com/beatriangu/ft_linear_regression/blob/main/predict.png">
-    <li>Display the curve resulting from your cost history.</li>https://github.com/beatriangu/ft_linear_regression/blob/main/severaltrain.png
-    <li>A program that checks the accuracy of your algorithm.</li>
+    <li>View the data on a graph: <a href="https://github.com/beatriangu/ft_linear_regression/blob/main/without%20training.png">without training graph</a></li>
+    <li>Display the line resulting from your linear regression on this same graph and see if it works! <a href="https://github.com/beatriangu/ft_linear_regression/blob/main/predict.png">linear regression graph</a></li>
+    <li>Display the curve resulting from your cost history: <a href="https://github.com/beatriangu/ft_linear_regression/blob/main/severaltrain.png">cost history curve</a></li>
+    <li>A program that checks the accuracy of your algorithm: <a href="https://github.com/beatriangu/ft_linear_regression/blob/main/Percentage%20of%20Precision.png">Percentage of Precision</a></li>
 </ul>
 
 <pre>
@@ -44,4 +55,6 @@ Error: Cannot cast input to float. Please enter a valid number.
 Please enter Kilometrage: 240000
 Estimated price for 240000 kms: 3436 €
 Is it what you expected? (yes/no): no
-Sorry to hear that
+Sorry to hear that.
+</code>
+</pre>
