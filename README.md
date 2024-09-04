@@ -40,4 +40,25 @@ Great! I'll buy it!
 
 (django_venv) c4r4s6% python predict.py
 Please enter Kilometrage: 50000
-Estimated price for 
+Estimated price for 50000 kms: 7393 €
+Is it what you expected? (yes/no): no
+Sorry to hear that. I'll have to try to adjust my algorithm a little more.
+</code>
+</pre>
+
+<!-- Descripción del segundo programa -->
+<h3>Second Program: Model Training</h3>
+<p>
+    The second program will be used to train your model. It will read the data set and perform a linear regression on this data.
+</p>
+
+<!-- Sección de Bonos -->
+<h3>Bonuses</h3>
+<ul>
+    <li>View the data on a graph: <a href="https://github.com/beatriangu/ft_linear_regression/blob/main/without%20training.png">without training graph</a></li>
+    <li>Display the line resulting from your linear regression on this same graph and see if it works! <a href="https://github.com/beatriangu/ft_linear_regression/blob/main/predict.png">linear regression graph</a></li>
+    <li>Display the curve resulting from your cost history: <a href="https://github.com/beatriangu/ft_linear_regression/blob/main/severaltrain.png">cost history curve</a></li>
+    <li>A program that checks the accuracy of your algorithm:
+        <p>(Percentage of Precision: 73.23%)</p>
+    </li>
+</ul>
