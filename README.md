@@ -18,6 +18,9 @@ The first program will be used to predict the price of a car based on its mileag
 The second program will be used to train your model. It will read the data set and make a linear regression on this data.
 Bonuses
 View the data on a graph.
+(https://github.com/beatriangu/ft_linear_regression/blob/main/predict.png?raw=true)
+
+
 Display the line resulting from your linear regression on this same graph and see if it works!
 Display the curve resulting from your cost history.
 A program that checks the accuracy of your algorithm.
