@@ -28,10 +28,10 @@ Is it what you expected? (yes/no): yes
 Great! I'll buy it!
 (django_venv) c4r4s6% python predict.py
 
-Please enter Kilometrage: 240000
-Estimated price for 240000 kms: 3436 €
+Please enter Kilometrage: 50000
+Estimated price for 50000 kms: 7393 €
 Is it what you expected? (yes/no): no
-Sorry to hear that.
+Sorry to hear that. I'll have to try to adjust my algorithm a little more.
 </code>
 </pre>
 
