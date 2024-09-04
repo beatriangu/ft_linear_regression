@@ -62,3 +62,5 @@ Sorry to hear that.I'll have to try to adjust my algorithm a little more.
         <p>(Percentage of accuracy: 73.23%)</p>
     </li>
 </ul>
+<!-- Link to Evaluation Sheet -->
+<p><a href="https://github.com/beatriangu/ft_linear_regression/blob/main/Intra%20Projects%20ft_linear_regression%20Edit.pdf">Evaluación sheet</a></p>
