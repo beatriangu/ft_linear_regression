@@ -64,3 +64,6 @@ Sorry to hear that.I'll have to try to adjust my algorithm a little more.
 </ul>
 <!-- Link to Evaluation Sheet -->
 <p><a href="https://github.com/beatriangu/ft_linear_regression/blob/main/Intra%20Projects%20ft_linear_regression%20Edit.pdf">Evaluación sheet</a></p>
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/7235dc66-b8e3-435e-9bc0-4f933924d826" alt="Screenshot from 2024-09-06 16-37-46" width="150"/>
+</p>
